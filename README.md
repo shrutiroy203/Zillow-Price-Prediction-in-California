@@ -6,7 +6,7 @@ The dataset we analyzed contains data from Zillow. This dataset has 3 different 
 
 We use the following methods:
 
-1. **Autoregressive Integrated Moving Average Model (ARIMA)**: Time series model that uses differenced lagged
+1.**Autoregressive Integrated Moving Average Model (ARIMA)**: Time series model that uses differenced lagged
 values and lagged prediction errors as inputs to make our prediction of our target variable, median price.
 
 2.**Seasonal Autoregressive Integrated Moving Average Model (SARIMA)**: An ARIMA model with a
